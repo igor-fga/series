@@ -1,4 +1,4 @@
-## **README.md - Buscador de Séries**
+## **Buscador de Séries - Imersão Dev com Google Gemini**
 
 ###  Sobre a Aplicação
 
